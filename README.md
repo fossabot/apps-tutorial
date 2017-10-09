@@ -1,4 +1,6 @@
 # Spotify Apps API Tutorial
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fapps-tutorial.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fapps-tutorial?ref=badge_shield)
+
 
 This repository has been cleared and left intentionally empty.
 
@@ -9,3 +11,7 @@ With the growing importance of mobile devices and with many developers asking fo
 As a result, we launched our [Web API](https://developer.spotify.com/web-api/) and mobile SDKs for [iOS](https://developer.spotify.com/technologies/spotify-ios-sdk/) and [Android](https://developer.spotify.com/technologies/spotify-android-sdk/).
 
 Please read the [announcement](http://devnews.spotify.com/2014/03/24/closure-of-spotify-apps-submissions/) on our Developer News site for more information.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fapps-tutorial.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fapps-tutorial?ref=badge_large)
